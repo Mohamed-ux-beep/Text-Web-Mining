@@ -1,0 +1,5 @@
+nltk==3.8.1
+python==3.9.12
+pandas==2.2.2
+re==2.2.1
+termcolor==2.4.0

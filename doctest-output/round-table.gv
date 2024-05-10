@@ -1,0 +1,15 @@
+// Latent Semantic Analysis or indexing
+digraph {
+	rankdir=LR
+	A [label="Raw Text Data" shape=box]
+	B [label="Latent Semantic Analysis" shape=box]
+	L [label="Singular Value Decomposition" shape=box]
+	F [label=Dictionary fillcolor=lightblue style=filled]
+	Z [label="Encoding matrix" fillcolor=lightblue style=filled]
+	C [label="Topic encoded Data" shape=box]
+	A -> B
+	B -> L
+	L -> F
+	L -> C
+	L -> Z
+}
