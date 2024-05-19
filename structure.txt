@@ -1,0 +1,34 @@
+.
+├── 14.4.24.ipynb
+├── Clustering.ipynb
+├── Dockerfile
+├── Klassifikation.ipynb
+├── Vektorraum.ipynb
+├── ähnlichkeit.ipynb
+├── doctest-output
+│   ├── round-table.gv
+│   └── round-table.gv.pdf
+├── eignes_model.ipynb
+├── graphs
+│   ├── 10_Kmeans_clusters.png
+│   ├── 15_Kmeans_clusters.png
+│   ├── 20_Kmeans_clusters.png
+│   ├── 30_Kmeans_clusters.png
+│   ├── DBSCAN_clusters.png
+│   ├── bisect_means_10.png
+│   ├── bisect_means_15.png
+│   ├── bisect_means_20.png
+│   └── bisect_means_30.png
+├── iris-classifier-deployment.yaml
+├── iris-classifier-service.yaml
+├── iris_model.pkl
+├── k8.ipynb
+├── private.ipynb
+├── requirements.txt
+├── structure.txt
+├── vecs_count.pkl
+├── vecs_tfidf.pkl
+├── wiki_movie_plots_deduped.csv
+└── zipfverteilung.ipynb
+
+3 directories, 29 files
