@@ -1,0 +1,9 @@
+setup.py
+mabokahflib/__init__.py
+mabokahflib/myfunctions.py
+mabokahflib.egg-info/PKG-INFO
+mabokahflib.egg-info/SOURCES.txt
+mabokahflib.egg-info/dependency_links.txt
+mabokahflib.egg-info/top_level.txt
+tests/__init__.py
+tests/test_myfunctions.py
